@@ -39,13 +39,17 @@
 
 ---
 > ### OpenSource(라이브러리)
-- [ ] [FSCalendar](https://github.com/WenchaoD/FSCalendar)
-- [ ] [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
-- [ ] [Toast](https://github.com/scalessec/Toast-Swift)
-- [ ] [TextFieldEffects](https://github.com/raulriera/TextFieldEffects)
-- [ ] [SideMenu](https://github.com/jonkykong/SideMenu)
-- [ ] [KingFisher](https://github.com/onevcat/Kingfisher)
-- [ ] [Tabman](https://github.com/uias/Tabman)
-- [ ] [Snapkit](https://github.com/SnapKit/SnapKit)
-- [ ] [Alamofire](https://github.com/Alamofire/Alamofire)
-- [ ] [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+- Cocoapods / Swift Pakage Manager
+  
+| NAME/LINK | Cocoapods | SPM |
+|------|-----------|---------------------|
+|[FSCalendar](https://github.com/WenchaoD/FSCalendar)| :heavy_check_mark: | :heavy_check_mark: |
+|[IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)| :heavy_check_mark: | :heavy_check_mark: |
+|[Toast](https://github.com/scalessec/Toast-Swift)| :heavy_check_mark: | :heavy_check_mark: |
+|[TextFieldEffects](https://github.com/raulriera/TextFieldEffects)| :heavy_check_mark: | :heavy_check_mark: |
+|[SideMenu](https://github.com/jonkykong/SideMenu)| :heavy_check_mark: | :heavy_check_mark: |
+|[KingFisher](https://github.com/onevcat/Kingfisher)| :heavy_check_mark: | :heavy_check_mark: |
+|[Tabman](https://github.com/uias/Tabman)| :heavy_check_mark: | :heavy_check_mark: |
+|[Snapkit](https://github.com/SnapKit/SnapKit)| :heavy_check_mark: | :heavy_check_mark: |
+|[Alamofire](https://github.com/Alamofire/Alamofire)| :heavy_check_mark: | :heavy_check_mark: |
+|[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| :heavy_check_mark: | :heavy_check_mark:|
