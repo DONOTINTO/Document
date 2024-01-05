@@ -24,6 +24,7 @@
 - [x] [ARC](https://github.com/DONOTINTO/Document/blob/main/IOS/ARC.md)
 - [x] [APP LIfe Cycle](https://github.com/DONOTINTO/Document/blob/main/IOS/App_Life_Cycle.md)
 - [x] [View LIfe Cycle](https://github.com/DONOTINTO/Document/blob/main/IOS/View_Life_Cycle.md)
+- [x] [whose view is not in the window hierarchy_viewDidAppear](https://github.com/DONOTINTO/Document/blob/main/IOS/whose%20view%20is%20not%20in%20the%20window%20hierarchy_viewDidAppear.md)
 
 ---
 > ### 📖UIKit
