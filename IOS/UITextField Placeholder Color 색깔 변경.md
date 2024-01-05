@@ -14,7 +14,9 @@ UITextField에는 아무것도 입력하지 않았을 때 나타나는 다음 �
 
 NSAttributedString 타입인 attributedPlaceholder은 기본값 자체가 nil이지만, 세팅을 통해 내가 원하는 속성들을 부여할 수 있다고 한다. 더불어 다른 textField의 스타일 속성에는 영향을 주지 않는다고 한다.
 
-![](https://velog.velcdn.com/images/donotinto/post/418078e8-7b65-4227-8087-2c1051d999cd/image.png)
+```swift
+textField.attributedPlaceholder = NSAttributedString(string: textField.placeholder!, attributes: [.foregroundColor: UIColor.white])
+```
 
 위와 같이 나는 placeholder의 text color를 white로 변경할 수 있었다.
 사실 NSAttributedString이 뭔지 저 init함수가 어떤 의미인지는 정확하게 알지 못하겠다.
