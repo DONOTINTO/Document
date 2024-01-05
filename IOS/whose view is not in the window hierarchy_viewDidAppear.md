@@ -1,7 +1,7 @@
 ## 오류 상황   
 rootVC에서 UserDefaults를 활용해 로그인 정보를 통해 자동 로그인하여 다음 VC로 넘어가도록 하였더니, whose view is not in the window hierarchy 오류가 발생했다.
 
-~~SceneDelegate에서 아무리 storyboard에 VC를 호출하여도 안되었다. 아무래도 Storyboard로 VC를 만들었기 때문이 아닌가 싶다.[SceneDelagte에서 Storyboard  rootVC 변경하기]~~(https://github.com/DONOTINTO/Document/blob/main/IOS/SceneDelagte에서%20Storyboard%20%20rootVC%20변경하기.md)
+~~SceneDelegate에서 아무리 storyboard에 VC를 호출하여도 안되었다. 아무래도 Storyboard로 VC를 만들었기 때문이 아닌가 싶다.~~[SceneDelagte에서 Storyboard  rootVC 변경하기](https://github.com/DONOTINTO/Document/blob/main/IOS/SceneDelagte에서%20Storyboard%20%20rootVC%20변경하기.md)
 
 ## 오류 원인
 해당 오류의 원인은 present를 통해 다음 VC를 호출하는 과정을 ViewDIdLoad에서 실행하였기 때문이다.
