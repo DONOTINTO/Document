@@ -16,7 +16,7 @@ IOS 15버전 이후로 UIButton에 적용된 새로운 버튼시스템으로, �
 ## UIButton Configuration 적용 방법
 
 UIButton.Configuration은 UIButton의 static func으로 UIButton을 통해 직접 생성이 가능하다.
-![Alt text](<스크린샷 2024-01-07 오후 5.41.29-1.png>)
+<img width="726" alt="스크린샷 2024-01-07 오후 5 41 29 복사본" src="https://github.com/DONOTINTO/Document/assets/123792519/ea8f6e68-2898-41c1-ab1f-afe6f43d2eb2">
 
 ```swift
 let button = UIButton()
@@ -49,13 +49,14 @@ button.setImage(UIImage(systemName: "checkmark.square.fill"), for: .selected)
 ```
 
 > selected 전
-![Alt text](<스크린샷 2024-01-07 오후 5.52.52.png>) 
+<img width="304" alt="스크린샷 2024-01-07 오후 5 52 52" src="https://github.com/DONOTINTO/Document/assets/123792519/cc33faae-68de-41b4-bf50-efd3dc59f0a0">
 
 > selected 후
-![Alt text](<스크린샷 2024-01-07 오후 5.53.02.png>)
+<img width="303" alt="스크린샷 2024-01-07 오후 5 53 02" src="https://github.com/DONOTINTO/Document/assets/123792519/73071c9e-4704-49e5-af23-42ea173cf26d">   
 
-위 상황에서 configuration의 backgroundColor를 적용해주면 원하던 모양을 얻을 수 있다.
-![Alt text](<스크린샷 2024-01-07 오후 5.59.12.png>)
+위 상황에서 configuration의 backgroundColor를 적용해주면 원하던 모양을 얻을 수 있다.   
+
+<img width="308" alt="스크린샷 2024-01-07 오후 5 59 12" src="https://github.com/DONOTINTO/Document/assets/123792519/a4e00d71-96d9-4ec9-94ce-30d2b27379d3">
 
 ---
 ## 참고
