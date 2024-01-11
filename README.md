@@ -39,6 +39,10 @@
 - [x] [UIScrollView](https://github.com/DONOTINTO/Document/blob/main/IOS/UIKit/UIScrollView.md)
 
 ---
+> ### 📖Design Pattern
+- [x] [Delegate 패턴](https://github.com/DONOTINTO/Document/blob/main/IOS/디자인패턴/Delegate패턴.md)
+
+---
 > ### 📖CS
 - [x] [AP & CPU + ISA](https://github.com/DONOTINTO/Document/blob/main/CS/AP%26CPU%2BISA.md)
 
