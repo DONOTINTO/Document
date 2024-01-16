@@ -66,3 +66,12 @@
 |[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| :heavy_check_mark: | :heavy_check_mark:|
 |[SkeletonView](https://github.com/Juanpe/SkeletonView)| :heavy_check_mark: | :heavy_check_mark:|
 
+---
+> ### OpenAPI
+| OpenAPI |
+|------|
+|[OpenWeather](https://github.com/WenchaoD/FSCalendar](https://openweathermap.org/api)https://openweathermap.org/api)|
+|[영화진흥위원회](https://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)|
+|[네이버 개발자 센터](https://developers.naver.com/main/)|
+|[TMDB](https://www.themoviedb.org/settings/api)|
+|[카카오 개발자 센터](https://developers.kakao.com)|
