@@ -64,3 +64,5 @@
 |[Snapkit](https://github.com/SnapKit/SnapKit)| :heavy_check_mark: | :heavy_check_mark: |
 |[Alamofire](https://github.com/Alamofire/Alamofire)| :heavy_check_mark: | :heavy_check_mark: |
 |[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| :heavy_check_mark: | :heavy_check_mark:|
+|[SkeletonView](https://github.com/Juanpe/SkeletonView)| :heavy_check_mark: | :heavy_check_mark:|
+
