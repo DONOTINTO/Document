@@ -31,6 +31,7 @@
 - [x] [View의 width, height 정보를 알 수 있는 타이밍](https://github.com/DONOTINTO/Document/blob/main/IOS/View의%20width%2C%20height%20정보를%20알%20수%20있는%20타이밍.md)
 - [x] [Bounds와 Frame의 차이](https://github.com/DONOTINTO/Document/blob/main/IOS/Bounds와%20Frame의%20차이.md)
 - [x] [Any와 AnyObject의 차이](https://github.com/DONOTINTO/Document/blob/main/IOS/Any와%20AnyObject의%20차이.md)
+- [x] [awakeFromNib](https://github.com/DONOTINTO/Document/blob/main/IOS/awakeFromNib.md)
 
 ---
 > ### 📖UIKit
