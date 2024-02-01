@@ -4,7 +4,7 @@ Dispatch Queue는 이런 GCD의 동시성 프로그래밍을 제공하는 스위
 
 # DispatchQueue
 
-![Alt text](<스크린샷 2024-02-01 오후 9.19.14.png>)
+<img width="928" alt="스크린샷 2024-02-01 오후 9 19 14" src="https://github.com/DONOTINTO/Document/assets/123792519/0de40f3f-5768-4b50-a9cc-1f7f0c6be9d2">
 
 조금 더 명확하게 보자면, 디스패치 큐는 앱의 메인 스레드 또는 백그라운드 스레드에서 작업을 serially(하나의 스레드) 또는 concurrently(여러 스레드)로 처리하도록 관리하는 객체이다.
 
@@ -30,13 +30,15 @@ Dispatch Queue는 이런 GCD의 동시성 프로그래밍을 제공하는 스위
 
 > serially
 
-![Alt text](<Frame 58.png>)
+![Frame 58](https://github.com/DONOTINTO/Document/assets/123792519/95e1faec-3b58-480b-be2d-fb9a10619e14)
+
 
 serially는 순차적으로라는 뜻으로 Main Thread만 사용하기 때문에 작업이 순차적으로 이루어진다고 이해할 수 있다.
 
 > concurrently
 
-![Alt text](<Frame 57.png>)
+![Frame 57](https://github.com/DONOTINTO/Document/assets/123792519/12652ae9-7e44-48d6-a133-e5eb3afe2283)
+
 
 반대로 concurrently는 동시에라는 뜻으로 여러 Global Thread에 작업을 분배하여 동시적으로 이루진다고 이해 할 수 있다.
 
@@ -84,7 +86,8 @@ sync는 Task를 디스패치큐에 보내서 처리가 끝날 때까지 해당 �
 
 우선 기본적으로 모든 Task는 main 스레드에서 이루어진다. 즉 main.sync는 main에서 main으로 다시 Task를 분담하는 것이다.
 
-![Alt text](<Frame 60.png>)
+![Frame 60](https://github.com/DONOTINTO/Document/assets/123792519/6c15f047-eabf-4444-aef5-941497de61ec)
+
 
 1. Main Thread는 DispatchQueue로 Task를 전달
 2. 전달과 동시에 Main은 Task의 작업 완료를 대기
