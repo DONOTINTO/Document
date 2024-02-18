@@ -4,10 +4,12 @@
 
 ---
 > ## 목차
-1. [Network](#network)
-2. [IOS](#ios)
-3. [UIKit](#uikit)
-4. [CS](#cs)
+1. [Network](#📖network)
+2. [IOS](#📖ios)
+3. [UIKit](#📖uikit)
+4. [CS](#📖cs)
+5. [데이터베이스](#📖데이터베이스)
+6. [면접준비](#📖면접준비)
 
 ---
 > ### 📖Network
@@ -49,6 +51,17 @@
 > ### 📖CS
 - [x] [AP & CPU + ISA](https://github.com/DONOTINTO/Document/blob/main/CS/AP%26CPU%2BISA.md)
 
+---
+> ### 📖데이터베이스
+- [x] [Transaction]()
+
+---
+> ### 📖면접준비
+- [x] [ARC란 무엇인가]()
+- [x] [Retain Count 방식에 대하여 설명하시오]()
+- [x] [Strong과 Weak의 참조 방식에 대하여 설명하시오]()
+- [x] [강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오]()
+- [x] [순환참조에 대하여 설명하시오]()
 
 ---
 > ### OpenSource(라이브러리)
