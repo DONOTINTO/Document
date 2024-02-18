@@ -57,11 +57,11 @@
 
 ---
 > ### 📖면접준비
-- [x] [ARC란 무엇인가]()
-- [x] [Retain Count 방식에 대하여 설명하시오]()
-- [x] [Strong과 Weak의 참조 방식에 대하여 설명하시오]()
-- [x] [강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오]()
-- [x] [순환참조에 대하여 설명하시오]()
+- [x] [ARC란 무엇인가](https://github.com/DONOTINTO/Document/blob/main/면접준비/ARC란%20무엇인가.md)
+- [x] [Retain Count 방식에 대하여 설명하시오](https://github.com/DONOTINTO/Document/blob/main/면접준비/Retain%20Count%20방식에%20대하여%20설명시오.md)
+- [x] [Strong과 Weak의 참조 방식에 대하여 설명하시오](https://github.com/DONOTINTO/Document/blob/main/면접준비/Strong과%20Weak의%20참조%20방식에%20대하여%20설명하시오.md)
+- [x] [강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오](https://github.com/DONOTINTO/Document/blob/main/면접준비/강한%20순환%20참조%20(Strong%20Reference%20Cycle)%20는%20어떤%20경우에%20발생하는지%20설명하시오.md)
+- [x] [순환참조에 대하여 설명하시오](https://github.com/DONOTINTO/Document/blob/main/면접준비/순환참조에%20대하여%20설명하시오.md)
 
 ---
 > ### OpenSource(라이브러리)
