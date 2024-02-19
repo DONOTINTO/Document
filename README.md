@@ -53,7 +53,7 @@
 
 ---
 > ### 📖데이터베이스
-- [x] [Transaction]()
+- [x] [Transaction](https://github.com/DONOTINTO/Document/blob/main/데이터베이스/Transaction.md)
 
 ---
 > ### 📖면접준비
