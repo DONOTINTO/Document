@@ -82,6 +82,7 @@
 |[SkeletonView](https://github.com/Juanpe/SkeletonView)| :heavy_check_mark: | :heavy_check_mark:|
 |[YPImagePicker](https://github.com/Yummypets/YPImagePicker)| :heavy_check_mark: | :heavy_check_mark:|
 |[charts](https://github.com/danielgindi/Charts)| :heavy_check_mark: | :heavy_check_mark:|
+|[Parchment](https://github.com/rechsteiner/Parchment)| :heavy_check_mark: | :heavy_check_mark:|
 
 
 ---
